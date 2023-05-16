@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="Rapp">Reservation App</string>
+    <string name="name">Your Name</string>
+    <string name="number">Mobile Number</string>
+    <string name="pax">Amount of people</string>
+    <string name="smoke"> smoking area</string>
+    <string name="no_smoke">non-smoking area</string>
+    <string name="send">Submit</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
